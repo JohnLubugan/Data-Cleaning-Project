@@ -5,7 +5,7 @@
 ---
 
 <h2>📋 Project Overview</h2>
-This project focuses on the **DATA CLEANING** process for company layoffs data. The objective is to cleanse, standardize, and eliminate duplicates from the dataset to ensure accurate and consistent records for further analysis. Using SQL queries, we will clean the data, refine it for better quality, and prepare it for deeper exploration. Additionally, we will conduct an exploratory data analysis (EDA) to uncover key insights and trends that will support informed decision-making and further reporting.
+This project focuses on the DATA CLEANING process for company layoffs data. The objective is to cleanse, standardize, and eliminate duplicates from the dataset to ensure accurate and consistent records for further analysis. Using SQL queries, we will clean the data, refine it for better quality, and prepare it for deeper exploration. Additionally, we will conduct an exploratory data analysis (EDA) to uncover key insights and trends that will support informed decision-making and further reporting.
 
 ---
 
